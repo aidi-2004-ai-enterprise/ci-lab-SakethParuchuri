@@ -1,0 +1,10 @@
+[project]
+name = "ci-lab-sakethparuchuri"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "pandas>=2.0.3",
+    "pytest>=8.3.5",
+]
